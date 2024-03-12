@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $('bxslider').bxSlider({
+    $(".slider").bxSlider({
       mode: 'fade',
       captions: true,
       slideWidth: 600
